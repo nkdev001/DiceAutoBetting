@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice Auto Betting</string>
+    <string name="accessibility_service_description">Эта служба позволяет приложению автоматически выполнять клики для размещения ставок в игре с кубиками. Приложение будет кликать на выбранный цвет кубика и кнопку ставки.</string>
+</resources>
